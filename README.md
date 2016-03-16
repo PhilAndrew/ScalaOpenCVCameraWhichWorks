@@ -1,4 +1,4 @@
-Working version with OpenCV 3.
+Working version with OpenCV 3 and sbt-opencv.
 
 
 
